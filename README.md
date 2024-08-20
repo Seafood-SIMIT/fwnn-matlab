@@ -18,7 +18,5 @@ Implementation of Fuzzy Wavelet Neural Network in Matlab and Evaluation of Targe
 预测结果如下图所示：
 ![预测结果](预测结果.PNG)
 
-## 联系方式
-如有疑问请联系13051613182@163.com
 
 如果觉得有用请给个Star吧~
